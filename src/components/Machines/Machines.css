@@ -1,0 +1,17 @@
+.stolen,.not-stolen{
+ cursor: pointer;
+ border:none;
+}
+.stolen img,.not-stolen img{
+    width: 20px;
+    height:20px;
+}
+p span{
+    font-weight: 500;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.stolen{
+    background-color: red;
+}
